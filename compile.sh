@@ -1,0 +1,1 @@
+gcc -o binary-piano ./src/main.c
